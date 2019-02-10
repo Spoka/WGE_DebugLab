@@ -835,7 +835,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a894bf0d4fd53534ab5969ba68b39348, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _cube: {fileID: 0}
+  _cube: {fileID: 1134894886}
   _leftPosition: {x: -1000, y: 0, z: 360}
   _rightPosition: {x: 0, y: 0, z: 360}
 --- !u!4 &1685720886
